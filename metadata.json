@@ -1,0 +1,5 @@
+{
+  "name": "FlowDay",
+  "description": "A concept prototype for a visual daily planner and flowchart editor, featuring node-based task management and timeline visualization.",
+  "requestFramePermissions": []
+}
